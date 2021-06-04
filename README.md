@@ -1,4 +1,4 @@
-# daily-scrum-slack-bot
+# :robot: daily-scrum-slack-bot
 Heroku에서 얻은 멘붕에 의해 commit log가 매우 더러운.. repo.. 눈.. 감아주세요..
 
 ## :sparkles: Description
