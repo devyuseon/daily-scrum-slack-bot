@@ -30,5 +30,4 @@ def make_msg():
 if __name__ == '__main__':
     slack_token = "xoxb-1216424344742-2140205972420-yTXCNVAYqgBDTFvfqtPj8MQb"
     channel_id = "C016HP1059B"
-    msg = "Hello"
     post_message(slack_token, channel_id, make_msg())
